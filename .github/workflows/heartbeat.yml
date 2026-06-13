@@ -1,0 +1,16 @@
+name: Commit Heartbeat
+on:
+  schedule:
+    - cron: '0 0 * * 0'
+jobs:
+  heartbeat:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - run: |
+          date > heartbeat.txt
+          git config user.name 'github-actions'
+          git config user.email 'actions@github.com'
+          git add heartbeat.txt
+          git commit -m "chore: SEO Heartbeat" || exit 0
+          git push
