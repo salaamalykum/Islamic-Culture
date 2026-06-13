@@ -8,6 +8,7 @@ lastmod: "2026-06-13T18:14:08Z"
 language: "zh-CN"
 topics: ["Islamic Culture", "Muslim Life", "History"]
 content_hash: "ca810f3a9aed28c734031e154e09b71165edfc68f4304a8f266bb1e1263c9e73"
+layout: "article"
 ---
 
 **网络转帖**

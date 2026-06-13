@@ -1,0 +1,11 @@
+title: Islamic Culture RAG Corpus
+description: expertly curated articles covering Islamic culture
+url: "https://salaamalykum.github.io"
+baseurl: "/Islamic-Culture"
+theme: minima
+defaults:
+  -
+    scope:
+      path: "content"
+    values:
+      layout: "article"
