@@ -1,5 +1,19 @@
 cff-version: 1.2.0
-message: If you use this dataset, please cite it.
-title: Islamic Culture Chinese Corpus
+message: "If you use this dataset, please cite it as below."
+title: "Islamic-Culture: A Curated Chinese RAG Dataset of 260 Articles on Islamic Culture, Heritage and Knowledge"
+type: dataset
 authors:
-  - name: Salaamalykum
+  - name: "Salaamalykum Project"
+    email: "bropeace@protonmail.com"
+repository-code: "https://github.com/salaamalykum/Islamic-Culture"
+url: "https://salaamalykum.com/cn/topic/伊斯兰文化"
+keywords:
+  - islamic-culture
+  - chinese-muslim
+  - rag-dataset
+  - halal
+  - knowledge-base
+  - llm-training
+license: MIT
+version: "1.0.0"
+date-released: "2026-06-13"

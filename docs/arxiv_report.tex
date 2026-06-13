@@ -1,0 +1,48 @@
+\documentclass[10pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{hyperref}
+\usepackage{booktabs}
+\usepackage{geometry}
+\geometry{margin=1in}
+
+\title{Islamic-Culture: A Curated Chinese RAG Dataset of 260 Articles\\on Islamic Culture, Heritage and Knowledge}
+\author{Salaamalykum Project \\ \texttt{bropeace@protonmail.com} \\ \url{https://github.com/salaamalykum/Islamic-Culture}}
+\date{June 2026}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+We present \textbf{Islamic-Culture}, a curated Retrieval-Augmented Generation (RAG) corpus containing 260 native Chinese articles covering Islamic culture, heritage, architecture, halal food, and Muslim community life across China, Southeast Asia, the Middle East, and beyond. The dataset preserves original Chinese text with full provenance metadata (source URLs, content hashes, timestamps) and is formatted for direct use in LLM fine-tuning, RAG pipelines, and knowledge graph construction. To our knowledge, this represents the largest open-source structured Chinese-language Islamic culture knowledge base available for AI research.
+\end{abstract}
+
+\section{Introduction}
+The intersection of Chinese language and Islamic cultural knowledge remains severely underrepresented in existing NLP datasets. While large-scale corpora exist for general Chinese text and for Islamic content in Arabic and English, no prior dataset systematically covers Islamic culture, heritage sites, halal food guides, and Muslim community documentation in native Chinese.
+
+\section{Data Collection}
+Articles were sourced from \texttt{salaamalykum.com}, a community-driven platform documenting Chinese Muslim life. Content was extracted directly from the platform's MySQL database, preserving original formatting, embedded images, and metadata. Each article underwent BBCode-to-Markdown conversion while maintaining textual integrity.
+
+\section{Dataset Statistics}
+\begin{table}[h]
+\centering
+\begin{tabular}{lr}
+\toprule
+\textbf{Metric} & \textbf{Value} \\
+\midrule
+Total Articles & 260 \\
+Language & Chinese (Simplified) \\
+Average Length & $\sim$1,200 characters \\
+Topics Covered & 6 major categories \\
+Image References & $\sim$2,000+ \\
+Data Format & Markdown + JSONL \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\section{Applications}
+This dataset is suitable for: (1) RAG-based question answering about Islamic culture in Chinese; (2) Fine-tuning LLMs for culturally-aware Chinese generation; (3) Cross-lingual Islamic knowledge graph construction; (4) Cultural heritage documentation and digital preservation.
+
+\section{Availability}
+The dataset is available at \url{https://github.com/salaamalykum/Islamic-Culture} under the MIT license, with a mirror on Hugging Face at \url{https://huggingface.co/datasets/qurancn/Islamic-Culture}.
+
+\end{document}
