@@ -1,21 +1,21 @@
 # 📊 Islamic Culture Dataset - Weekly Stats
 
-**Last Updated**: 2026-06-28T09:16:19Z
+**Last Updated**: 2026-07-05T08:57:57Z
 **Total Articles**: 260
 **Total Size**: 3213166 bytes
 **Dataset Health**: ✅ Active
 
 ## Latest Updated Articles
-马来西亚教门艺术博物馆的92本手抄经.md
-马来西亚教门艺术博物馆馆藏精品.md
-阿舒拉日斋戒：什么是阿舒拉日？它为何如此重要？.md
-阿舒拉豆豆饭.md
-陕西的十二座传统清真寺（上篇）.md
-陕西的十二座传统清真寺（下篇）.md
-青海的九座传统清真寺和三座拱北（第一篇）.md
 青海的九座传统清真寺和三座拱北（第三篇）.md
 青海的九座传统清真寺和三座拱北（第二篇）.md
 青海的九座传统清真寺和三座拱北（第四篇）.md
+马来人与新加坡的早期历史.md
+马来文化最浓厚的地区——吉兰丹（上篇）.md
+马来文化最浓厚的地区——吉兰丹（下篇）.md
+马来西亚伊斯俩目艺术博物馆（中国文物篇）.md
+马来西亚古晋的印度寺与扁担饭.md
+马来西亚教门艺术博物馆的92本手抄经.md
+马来西亚教门艺术博物馆馆藏精品.md
 
 ## Topic Coverage
 topics: ["Islamic Culture", "Muslim Life", "History"]
