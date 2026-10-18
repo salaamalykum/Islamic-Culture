@@ -1,6 +1,6 @@
 # 📊 Islamic Culture Dataset - Weekly Stats
 
-**Last Updated**: 2026-10-11T12:22:53Z
+**Last Updated**: 2026-10-18T10:38:25Z
 **Total Articles**: 260
 **Total Size**: 3213166 bytes
 **Dataset Health**: ✅ Active
@@ -13,9 +13,9 @@
 马来西亚古晋的印度寺与扁担饭.md
 马来西亚教门艺术博物馆的92本手抄经.md
 马来西亚教门艺术博物馆馆藏精品.md
-重访伊斯坦布尔（上篇）.md
-重访伊斯坦布尔（下篇）.md
-阆中古城的穆斯林.md
+跨越欧亚大陆的阿舒拉豆粥.md
+辽宁三城清真行：凌源、沈阳、开原（上篇）.md
+辽宁三城清真行：凌源、沈阳、开原（下篇）.md
 
 ## Topic Coverage
 topics: ["Islamic Culture", "Muslim Life", "History"]
